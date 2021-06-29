@@ -2,18 +2,10 @@
     --bg-color: #3366CC;
     --color:  	#9FFB88;
 }
-body {
-  margin: 0;
-  padding: 0;
-}
-
-.background {
-  position: absolute;
-  display: block;
-  top: 0;
-  left: 0;
-  z-index: 0;
-}
+#particles {
+                height: 300px;
+                width: 100%;
+            }
 
 body{
     margin: 0 !important;
