@@ -36,22 +36,7 @@ main h2{
 }
 main h3{
     text-align: center;
-    font-size: xxx-large;
-    font-weight: 800;
-}
-main h4{
-    text-align: center;
-    font-size: small;
-    font-weight: 700;
-}
-main h5{
-    text-align: center;
-    font-size: xxx-large;
-    font-weight: 800;
-}
-main h6{
-    text-align: center;
-    font-size: small;
+     font-size: small;
     font-weight: 700;
 }
 
@@ -86,7 +71,7 @@ main .btn:hover{
     transform: scale(0.9);
 }
 footer{
-    font-weight: 800;
+    font-weight: 100px;
     font-size: xxx-large;
 
 }
