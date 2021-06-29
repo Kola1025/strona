@@ -2,19 +2,14 @@
     --bg-color: #3366CC;
     --color:  	#9FFB88;
 }
-#particles {
-                height: 300px;
-                width: 100%;
-            }
-
-body{
-    margin: 0 !important;
-    padding: 0 !important;
-
-   
-    color: var(--color);
-
-    font-family: 'Open Sans', sans-serif;
+body {
+  background: gray;
+  height: 100%;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
 }
 
 main{
