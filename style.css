@@ -85,3 +85,8 @@ main .btn:hover{
 
     transform: scale(0.9);
 }
+footer{
+    font-weight: 800;
+    font-size: xxx-large;
+
+}
